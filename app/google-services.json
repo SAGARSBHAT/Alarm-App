@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102280519658",
+    "firebase_url": "https://alarm-63fad.firebaseio.com",
+    "project_id": "alarm-63fad",
+    "storage_bucket": "alarm-63fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102280519658:android:a4c5997fe038a259709c93",
+        "android_client_info": {
+          "package_name": "com.example.alaram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102280519658-tnsepf6nidc5c9biil7rb4cofblsue2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwHDgPTncf8Tso3_D6ndku0c-EkcHgh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102280519658-tnsepf6nidc5c9biil7rb4cofblsue2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
